@@ -124,5 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 * 0.09-Workflow_&_Tools https://www.w3schools.com/htmlcss/htmlcss_workflow.asp
 * 0.11-Essentials https://www.w3schools.com/htmlcss/htmlcss_essentials.asp
 * 0.12-Document_Structure https://www.w3schools.com/htmlcss/htmlcss_document_structure.asp
+* 0.13-Text_Content https://www.w3schools.com/htmlcss/htmlcss_text_content.asp
+* 0.14-Lists_&_Tables https://www.w3schools.com/htmlcss/htmlcss_lists_tables.asp
 * 
 * 
