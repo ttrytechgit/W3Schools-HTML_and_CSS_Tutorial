@@ -119,3 +119,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 * 0.01-HOME https://www.w3schools.com/htmlcss/default.asp
 * 0.02-Introduction https://www.w3schools.com/htmlcss/htmlcss_intro.asp
+* 0.03-Environmental_Setup https://www.w3schools.com/htmlcss/htmlcss_setup.asp
+* 0.04-First_Web_Page https://www.w3schools.com/htmlcss/htmlcss_first_webpage.asp
